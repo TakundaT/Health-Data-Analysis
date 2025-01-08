@@ -1,7 +1,7 @@
 # Global Health Data Analysis Project
 
 ## Overview
-This project involves the analysis of global health data to uncover trends and insights regarding various factors such as healthcare access, urbanization rate, mortality rate, and their interrelations. The project employs Python libraries for data visualization and statistical analysis to better understand the factors influencing health outcomes across different regions.
+This project involves the analysis of global health data to uncover trends and insights regarding various factors such as healthcare access, urbanization rate, mortality rate, and their interrelations. The project employs Python libraries for data visualization and statistical analysis to better understand the factors influencing health outcomes across different regions. The CSV file is too big to be put on Github so the link is https://www.kaggle.com/datasets/malaiarasugraj/global-health-statistics
 
 ## Features
 - **Data Visualization**: Generates scatter plots, histograms, and other visualizations to interpret the data.
